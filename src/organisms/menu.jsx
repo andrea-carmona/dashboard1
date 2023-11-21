@@ -32,7 +32,7 @@ function Menu() {
           id="combo-box-demo"
           options={tier}
           sx={{ width: 200 }}
-          renderInput={(params) => <TextField {...params} label="Acmen Inc" />}
+          renderInput={(params) => <TextField {...params} label="Acmen Inc" className="white-text" />}
         /> 
       </Box>
       <hr />

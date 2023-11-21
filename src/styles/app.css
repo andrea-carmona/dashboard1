@@ -35,3 +35,7 @@ hr {
 .type label {
   color: #EEF3FD;
 }
+
+.white-text input {
+color: #fff;
+}
